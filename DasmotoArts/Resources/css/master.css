@@ -1,0 +1,32 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+div.header {
+  background-image: url(https://www.bing.com/images/search?view=detailV2&ccid=kRUxaisA&id=93F6CD3E70AC6E95782E79FA3CFFEED8A6543E4E&thid=OIP.kRUxaisAEX7MHTILJ3R8hwEyDL&q=beach&simid=608001864138753781&selectedIndex=12&ajaxhist=0);
+  font-size: 50px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+div.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+div.frames h2 {
+  background-color: lightcoral;
+}
+
+div.paint h2 {
+  background-color: skyblue;
+}
+
+p strong {
+  color: blue;
+}
